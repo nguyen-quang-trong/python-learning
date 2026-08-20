@@ -3,15 +3,22 @@ số nguyên (int), số thực (float), kiểu logic (boolean), chuỗi ký t�
 
 ### Trình bày các loại ghi chú trong Python.
 Ghi chú dòng: #
+
 Ghi chú nhiều dòng: “”” … “””
 
 ### Trình bày ý nghĩa toán tử /, //, % , **, and, or, is.
 /: chia thường
+
 //: chia lấy phần nguyên
+
 %: chia lấy dư
+
 **: lũy thừa
+
 And: đúng khi tất cả điều kiện đều đúng
+
 Or: đúng khi ít nhất một điều kiện đúng
+
 Is: kiểm tra hai biến có cùng trỏ đến một đối tượng hay không
 
 ### Trình bày một số cách nhập dữ liệu từ bàn phím .
@@ -22,6 +29,7 @@ Các loại lỗi:
   + Lỗi cú pháp: được thông bởi trình dịch
   + Lỗi ngữ nghĩa: cần sử dụng kinh nghiệm của lập trình viên để gỡ lỗi
   + Lỗi thực thi: khi lỗi xảy ra, chương trình sẽ tạo ra một đối tượng ngoại lệ gọi là exception.
+
 Cách bắt lỗi: Xử lý ngoại lệ bằng lệnh try để bao một khối mã lệnh
 
 ### Giải thích kết quả tính toán của các biểu thức
